@@ -1,4 +1,4 @@
-# Lampu Lalu Lintas Berbasis Sensor Ultrasonik
+# Manajemen Alokasi Waktu Lampu Lalu Lintas Berbasis Sensor Ultrasonik
 
 Proyek ini merupakan implementasi sistem manajemen alokasi waktu lampu lalu lintas menggunakan sensor ultrasonik untuk mengukur kepadatan lalu lintas pada setiap jalur. Dengan memanfaatkan Arduino, proyek ini menciptakan pengaturan waktu lampu lalu lintas yang dinamis berdasarkan tingkat kepadatan pada setiap jalur.
 
