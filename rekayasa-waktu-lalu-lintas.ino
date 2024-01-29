@@ -1,3 +1,13 @@
+ */
+ Sketch ini dirancang 100% untuk eskalasi dan integrasi bidang pendidikan,
+ Silakan gunakan seluas-luasnya dan sebebas-bebasnya atas nama pendidikan,
+
+ - Dirancang oleh : Achmad Nawawi Ahlan
+ - Dibuat pada tgl: 1 Januari 2024
+ - Terakhir update: 29 Januari 2024 
+ - Tujuan update  : Memperbaiki bug pada saat looping yang terhambat oleh fungsi sebelumnya akibat 'delay(x);`
+ */
+
 int triggerPin[] = {A0, A2, 2};
 int echoPin[] = {A1, A3, 3};
 
