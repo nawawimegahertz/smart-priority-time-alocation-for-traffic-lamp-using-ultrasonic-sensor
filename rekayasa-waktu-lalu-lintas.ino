@@ -5,7 +5,8 @@
  - Dirancang oleh : Achmad Nawawi Ahlan
  - Dibuat pada tgl: 1 Januari 2024
  - Terakhir update: 29 Januari 2024 
- - Tujuan update  : Memperbaiki bug pada saat looping yang terhambat oleh fungsi sebelumnya akibat 'delay(x);`
+ - Tujuan update  : Memperbaiki bug pada saat looping yang terhambat oleh fungsi sebelumnya akibat 'delay(x);`\
+ - Butuh bantuan? Hubungi saya di: achmadnawawiahlan@gmail.com
  */
 
 int triggerPin[] = {A0, A2, 2};
